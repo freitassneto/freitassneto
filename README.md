@@ -5,9 +5,7 @@
 - 😄 Pronouns: Ele/dele
 
 <div align="center" style="display: inline_block">
-  <h2 padding-bottom="10px">Tecnologias que eu domino</h2>
-  
-  ##
+  <h2>Tecnologias que eu trabalho</h2>
   <img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +15,8 @@
   <img align="center" alt="Neto-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Neto-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/freitassneto">
