@@ -1,10 +1,11 @@
 ### Olá! Eu sou Olívio Freitas 👋
 
-- 🔭 Atualmente sou desenvolvedor front-end;
-- 🌱 Estou cursando, atualmente, o módulo de back-end na Kenzie Academy Brasil;
+- 🔭 Sou desenvolvedor front-end;
+- 🌱 Estou cursando atualmente o módulo de back-end na Kenzie Academy Brasil;
 - 😄 Pronouns: Ele/dele
 
 <div align="center" style="display: inline_block"><br>
+  <h2>Tecnologias que eu domino</h2>
   <img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
