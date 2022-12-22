@@ -1,7 +1,7 @@
-### Olá! Me chamo Olívio Freitas 👋
+### Olá! Eu sou Olívio Freitas 👋
 
 - 🔭 Atualmente sou desenvolvedor front-end;
-- 🌱 Estou cursando, atualmente, o módulo de back-end;
+- 🌱 Estou cursando, atualmente, o módulo de back-end na Kenzie Academy Brasil;
 - 😄 Pronouns: Ele/dele
 
 <div align="center" style="display: inline_block"><br>
