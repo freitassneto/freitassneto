@@ -2,7 +2,6 @@
 
 - 🔭 Sou desenvolvedor front-end;
 - 🌱 Estou cursando atualmente o módulo de back-end na Kenzie Academy Brasil;
-- 😄 Pronouns: Ele/dele
 
 <div align="center" style="display: inline_block">
   <h2>Tecnologias com as quais eu trabalho</h2>
