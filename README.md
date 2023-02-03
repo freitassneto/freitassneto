@@ -1,7 +1,7 @@
 ### Olá! Eu sou Olívio Freitas 👋
 
-- 🔭 Sou desenvolvedor front-end;
-- 🌱 Estou cursando atualmente o módulo de back-end na Kenzie Academy Brasil;
+- 🔭 Desenvolvedor Front End com conhecimento em TypeScript, ReactJS, JavaScript6 e CSS;
+- 🌱 Atualmente, estou cursando o módulo de back-end na Kenzie Academy Brasil;
 
 <div align="center" style="display: inline_block">
   <h2>Tecnologias com as quais eu trabalho</h2>
@@ -28,10 +28,6 @@
   <a href="https://www.linkedin.com/in/oliviofreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/freitassneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ojfneto92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  
-  ![Snake animation](https://github.com/freitassneto/freitassneto/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 
