@@ -1,7 +1,8 @@
 ### Olá! Eu sou Olívio Freitas 👋
 
+- 🌱 Desenvolvedor Back End com conhecimento em NodeJS, Express, PostgreSQL e TypeScript;
 - 🔭 Desenvolvedor Front End com conhecimento em TypeScript, ReactJS, JavaScript6 e CSS;
-- 🌱 Atualmente, estou cursando o módulo de back-end na Kenzie Academy Brasil;
+
 
 <p align="center">
   <a href="https://skillicons.dev">
