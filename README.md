@@ -3,6 +3,11 @@
 - 🔭 Desenvolvedor Front End com conhecimento em TypeScript, ReactJS, JavaScript6 e CSS;
 - 🌱 Atualmente, estou cursando o módulo de back-end na Kenzie Academy Brasil;
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs, express, ts, js, react, git, figma, styledcomponents, postgres, css&perline=5" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=nodejs, express, ts, js, react, git, figma, styledcomponents, postgres, css&perline=5)](https://skillicons.dev)
 
 <div align="center" style="display: inline_block">
