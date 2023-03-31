@@ -5,10 +5,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs, express, ts, js, react, git, figma, styledcomponents, postgres, css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,git,figma,styledcomponents,postgres,css&perline=5" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=nodejs, express, ts, js, react, git, figma, styledcomponents, postgres, css&perline=5)](https://skillicons.dev)
 
 <div align="center" style="display: inline_block">
   <h2>Tecnologias com as quais eu trabalho</h2>
