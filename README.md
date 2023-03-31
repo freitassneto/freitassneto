@@ -3,8 +3,11 @@
 - 🔭 Desenvolvedor Front End com conhecimento em TypeScript, ReactJS, JavaScript6 e CSS;
 - 🌱 Atualmente, estou cursando o módulo de back-end na Kenzie Academy Brasil;
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs, express, ts, js, react, git, figma, styledcomponents, postgres, css&perline=5)](https://skillicons.dev)
+
 <div align="center" style="display: inline_block">
   <h2>Tecnologias com as quais eu trabalho</h2>
+  
   <img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
